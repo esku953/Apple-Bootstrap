@@ -1,3 +1,4 @@
+
 /* General Styling*/
 body {
 	font-family: 'Montserrat', sans-serif;
@@ -76,6 +77,9 @@ img {
 .footer-links-terms ul li {
 	padding: 0 10px;
 	border-right: 1px solid #d2d2d7;
+	margin: 0px 10px 0 0;
+	white-space: normal;
+}
 }
 .footer-links-terms ul li:first-child {
 	padding-left: 0;
